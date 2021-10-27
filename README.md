@@ -5,8 +5,8 @@ In this we will learn to create a docker image and run a simple django applicati
 
 1. Install ubuntu image using the docker run ubuntu command.
 
-Then, enter into the ubnutu container with docker run -it ubunut bash.
+2. Enter into the ubnutu container with docker run -it ubunut bash.
 
-Intall python
-Install pip
-Install Django
+3. Intall python
+4. Install pip
+5. Install Django
